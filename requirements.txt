@@ -1,5 +1,6 @@
 fastapi
 PyPDF2
 streamlit
+openai
 langchain
 langchain-community
